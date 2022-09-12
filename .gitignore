@@ -1,0 +1,5 @@
+# Project exclude paths
+/DataCollectionReceiver/target/
+/JavaFX/target/
+/PdfGenerator/target/
+/StationDataCollector/target/
